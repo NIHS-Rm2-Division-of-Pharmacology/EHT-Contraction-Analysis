@@ -10,6 +10,11 @@ __pycache__/
 .venv/
 venv/
 
-# Local configuration and secrets
+# Local configuration
 .env
 .env.*
+
+# Analysis outputs (recommended to prevent committing generated results and plots)
+*_Results.png
+*_wave_form.csv
+*_peak_interval.csv
