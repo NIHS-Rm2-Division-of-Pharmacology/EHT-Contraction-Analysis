@@ -14,7 +14,7 @@ venv/
 .env
 .env.*
 
-# Analysis outputs (recommended to prevent committing generated results and plots)
+# Analysis outputs
 *_Results.png
 *_wave_form.csv
 *_peak_interval.csv
