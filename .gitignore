@@ -15,6 +15,6 @@ venv/
 .env.*
 
 # Analysis outputs
-*_Results.png
+*_.png
 *_wave_form.csv
 *_peak_interval.csv
